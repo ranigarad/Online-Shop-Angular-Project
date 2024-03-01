@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+/* styles.css */
+
+body {
+    background-color: #feeded; /* Set your light maroon background color */
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #8b0000; /* Set your navbar color */
+    color: #fff; /* Set the text color for better visibility */
+    padding: 10px; /* Add padding for better aesthetics */
+}
+
+.navbar a {
+    color: #fff; /* Set link color */
+    text-decoration: none; /* Remove underlines from links */
+    margin: 0 10px; /* Add spacing between navbar links */
+}
